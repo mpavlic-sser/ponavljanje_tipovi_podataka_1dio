@@ -2,11 +2,11 @@ using System;
 
 namespace CSharpOsnove
 {
-    internal static class Zadatak5_PogodiTip
+    internal static class Zadatak1_PogodiTip
     {
         public static void Izvrsi()
         {
-            Console.WriteLine("ZADATAK 5 — Pogodi tip (tipovi podataka)");
+            Console.WriteLine("ZADATAK 1 — Pogodi tip (tipovi podataka)");
             Console.WriteLine("----------------------------------------");
 
             // TODO 1: Za svaku vrijednost odaberi tip, spremi u varijablu i ispiši vrijednost.
