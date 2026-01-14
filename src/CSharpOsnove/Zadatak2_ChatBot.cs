@@ -2,11 +2,11 @@ using System;
 
 namespace CSharpOsnove
 {
-    internal static class Zadatak1_ChatBot
+    internal static class Zadatak2_ChatBot
     {
         public static void Izvrsi()
         {
-            Console.WriteLine("ZADATAK 1 — Chat bot za upis u školu");
+            Console.WriteLine("ZADATAK 2 — Chat bot za upis u školu");
             Console.WriteLine("-----------------------------------");
 
             // TODO 1: Traži od korisnika: ime (string)
