@@ -35,11 +35,17 @@ src/CSharpOsnove/
 Za svaku vrijednost treba odabrati najprikladniji tip i ispisati vrijednost:
 
 broj učenika u razredu (npr. 28)
+
 broj dana u mjesecu (npr. 31)
+
 cijena kave 1.80 €
+
 visina osobe 1.82
+
 ASCII kod slova ‘A’ (65)
+
 udaljenost do Mjeseca (384400 km)
+
 je li korisnik prijavljen (true/false)
 
 ---
@@ -49,12 +55,17 @@ je li korisnik prijavljen (true/false)
 Napravi program koji pita korisnika:
 
 ime (string)
+
 prezime (string)
+
 razred (byte)
+
 smjer (string)
+
 Ispiši poruku:
 
 jednom koristeći string interpolaciju
+
 drugi put koristeći String.Format()
 
 ---
@@ -62,6 +73,7 @@ drugi put koristeći String.Format()
 ### 3) RGB provjera
 
 Korisnik unosi tri vrijednosti: R, G, B (0–255).
+
 Spremi ih u byte.
 
 Ispiši boju kao: RGB(255, 128, 64)
@@ -79,5 +91,6 @@ Spremi u double i ispiši: Temperatura (double): ...
 ---
 
 ## 📌 Upute za predaju
+
 - Rješenja trebaju biti commitana i pushana na GitHub.
 - Ne mijenjati strukturu projekta.
