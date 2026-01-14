@@ -2,11 +2,11 @@ using System;
 
 namespace CSharpOsnove
 {
-    internal static class Zadatak2_RgbProvjera
+    internal static class Zadatak3_RgbProvjera
     {
         public static void Izvrsi()
         {
-            Console.WriteLine("ZADATAK 2 — RGB provjera");
+            Console.WriteLine("ZADATAK 3 — RGB provjera");
             Console.WriteLine("------------------------");
 
             // TODO 1: Učitaj R, G, B (0–255). Spremi ih u byte.
