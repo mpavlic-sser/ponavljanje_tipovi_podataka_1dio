@@ -31,43 +31,50 @@ src/CSharpOsnove/
 ## 📝 Zadatci
 
 ### 1) Pogodi tip (tipovi podataka)
-Za svaku vrijednost odaberi tip, spremi u varijablu i ispiši:
-- broj učenika u razredu (28)
-- broj dana u mjesecu (31)
-- cijena kave (1.80 €)
-- visina osobe (1.82)
-- ASCII kod slova 'A' (65)
-- udaljenost do Mjeseca (384400 km)
-- je li korisnik prijavljen (true/false)
+
+Za svaku vrijednost treba odabrati najprikladniji tip i ispisati vrijednost:
+
+broj učenika u razredu (npr. 28)
+broj dana u mjesecu (npr. 31)
+cijena kave 1.80 €
+visina osobe 1.82
+ASCII kod slova ‘A’ (65)
+udaljenost do Mjeseca (384400 km)
+je li korisnik prijavljen (true/false)
 
 ---
 
 ### 2) Chat bot za upis u školu
-Unos:
-- ime (`string`)
-- prezime (`string`)
-- razred (`byte`)
-- smjer (`string`)
 
-Ispis:
-- jednom koristeći **string interpolaciju**
-- drugi put koristeći **String.Format()**
+Napravi program koji pita korisnika:
+
+ime (string)
+prezime (string)
+razred (byte)
+smjer (string)
+Ispiši poruku:
+
+jednom koristeći string interpolaciju
+drugi put koristeći String.Format()
 
 ---
 
 ### 3) RGB provjera
-Unos:
-- R, G, B (0–255)
 
-Ako je ispravno: ispis `RGB(r, g, b)`  
-Ako nije: ispis `Neispravan unos za RGB!`
+Korisnik unosi tri vrijednosti: R, G, B (0–255).
+Spremi ih u byte.
+
+Ispiši boju kao: RGB(255, 128, 64)
 
 ---
 
 ### 4) Temperatura učionice (float vs double)
-Unos temperature (npr. 21.5), spremi i ispiši kao:
-- `float`
-- `double`
+
+Korisnik unosi temperaturu (npr. 21.5).
+
+Spremi u float i ispiši: Temperatura (float): ...
+
+Spremi u double i ispiši: Temperatura (double): ...
 
 ---
 
