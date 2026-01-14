@@ -2,11 +2,11 @@ using System;
 
 namespace CSharpOsnove
 {
-    internal static class Zadatak3_Temperatura
+    internal static class Zadatak4_Temperatura
     {
         public static void Izvrsi()
         {
-            Console.WriteLine("ZADATAK 3 — Temperatura učionice (float vs double)");
+            Console.WriteLine("ZADATAK 4 — Temperatura učionice (float vs double)");
             Console.WriteLine("--------------------------------------------------");
 
             Console.Write("Unesi temperaturu (npr. 21.5): ");
