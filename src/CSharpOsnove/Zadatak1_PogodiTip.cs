@@ -23,7 +23,7 @@ namespace CSharpOsnove
             // udaljenost do Mjeseca (384400 km)
             // je li korisnik prijavljen (true/false)
 
-            Console.WriteLine("TODO: Ovdje definiraj varijable s ispravnim tipovima i ispiši ih.");
+            
         }
     }
 }
