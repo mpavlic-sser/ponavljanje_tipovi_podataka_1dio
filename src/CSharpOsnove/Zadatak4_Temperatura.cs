@@ -13,10 +13,12 @@ namespace CSharpOsnove
 
             // TODO 1: Spremi unos u float i ispiši: Temperatura (float): ...
             // Napomena: float se najčešće parsira iz stringa.
-            float temperaturaFloat = ;
+          
+            // float temperaturaFloat = ;
 
             // TODO 2: Spremi unos u double i ispiši: Temperatura (double): ...
-            double temperaturaDouble = ;
+           
+            // double temperaturaDouble = ;
 
             Console.WriteLine("TODO: Ovdje ispiši temperaturu (float).");
             
