@@ -10,17 +10,18 @@ namespace CSharpOsnove
             Console.WriteLine("--------------------------------------------------");
 
             Console.Write("Unesi temperaturu (npr. 21.5): ");
-            string unos = Console.ReadLine() ?? "0";
 
             // TODO 1: Spremi unos u float i ispiši: Temperatura (float): ...
             // Napomena: float se najčešće parsira iz stringa.
-            float temperaturaFloat = float.Parse(unos);
+            float temperaturaFloat = ;
 
             // TODO 2: Spremi unos u double i ispiši: Temperatura (double): ...
-            double temperaturaDouble = double.Parse(unos);
+            double temperaturaDouble = ;
 
             Console.WriteLine("TODO: Ovdje ispiši temperaturu (float).");
+            
             Console.WriteLine("TODO: Ovdje ispiši temperaturu (double).");
+        
         }
     }
 }
