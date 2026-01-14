@@ -15,7 +15,6 @@ namespace CSharpOsnove
             // TODO: odaberi tip (npr. byte ili int)
             // primjer:
             // byte brojUcenikaURazredu = 28;
-
             // broj dana u mjesecu (31)
             // cijena kave 1.80 €
             // visina osobe 1.82
