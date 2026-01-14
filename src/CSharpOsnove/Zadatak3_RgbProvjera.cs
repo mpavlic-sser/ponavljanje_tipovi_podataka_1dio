@@ -15,9 +15,9 @@ namespace CSharpOsnove
             
             
             // TODO 2: pretvori u byte (i spremi u varijable r, g, b).
-            byte r = ;
-            byte g = ;
-            byte b = ;
+            // byte r = ;
+            // byte g = ;
+            // byte b = ;
 
             // TODO 4: Ispiši boju u obliku: RGB(255, 128, 64)
            
